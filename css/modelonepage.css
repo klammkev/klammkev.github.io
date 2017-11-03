@@ -1,0 +1,32 @@
+
+
+div .nopadding {
+   padding: 2px !important;
+   margin: 0 !important;
+}
+
+div .infotext{
+	text-align:center;
+}
+div .infotext p{
+	padding-top: 150px;
+	font-family: Old Standard TT !important;
+	font-size: 20px;
+}
+
+div .infotext a{
+	padding-top: 150px;
+	font-family: Old Standard TT !important;
+	font-size: 20px;
+}
+
+
+div .infotext hr{
+	width: 200px;
+	margin:auto;
+	font-style: bold;
+}
+
+.location p{
+	font-family: Old Standard TT !important;
+}

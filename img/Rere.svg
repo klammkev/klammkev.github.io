@@ -1,0 +1,19 @@
+<svg width="186" height="151" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="188" height="153" id="canvas_background" fill="#ffffff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_2" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#ffffff" stroke-width="3" x="88.446796" y="77.646612" id="svg_1" font-size="69" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" transform="matrix(1.9490682593637678,0,0,1.5813059913389356,-169.88885238007884,-46.18098284294033) " stroke="#000">R</text>
+  <line fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="99.08258" y1="32.806654" x2="99.08258" y2="107.911735" id="svg_5" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
+  <rect fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" x="22.120965" y="27.589417" width="3.921705" height="21" id="svg_10" stroke="#B6C7EA"/>
+  <rect fill="none" stroke-width="3" fill-opacity="null" x="22.120965" y="51.33363" width="3.921705" height="21" id="svg_13" stroke="#CE7975"/>
+  <text fill="#ffffff" stroke-width="3" x="139.532653" y="122.16653" id="svg_16" font-size="69" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" transform="matrix(1.9490682593637678,0,0,1.5813059913389356,-169.88885238007884,-46.18098284294033) " stroke="#000">E</text>
+ </g>
+</svg>
